@@ -59,7 +59,7 @@ def red_pixel_start(xit, yit):
     pixel_canvas.close()
 
 
-red_pixel_start(0, 300)
+# red_pixel_start(0, 300)
 
 def choose_one():
     return random.choice([1, 2])
